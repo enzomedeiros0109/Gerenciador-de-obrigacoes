@@ -1,4 +1,4 @@
-# projetos_Java
+# Gerenciador de obrigações
 
 Um gerenciador de obrigações diárias feito em Java. 
 Foi usado Swing, estrutura de dados(HashMap e ArrayList) e manipulação e tratamento de arquivos CSV para a criação desse sistema.
