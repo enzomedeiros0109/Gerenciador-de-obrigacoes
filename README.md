@@ -5,7 +5,7 @@ Foi usado Swing, estrutura de dados(HashMap e ArrayList) e manipulação e trata
 
 # Como executar
 
-1. Faça o download da pasta "AV3" e a importe para a sua IDE como Java Project ou copie a pasta "src" em "AV3/src" para um Java Project de sua preferência.
+1. Faça o download e a importe para a sua IDE como Java Project ou copie a pasta "src" em "AV3/src" para um Java Project de sua preferência.
 2. Compile a classe "Main.java".
 (O arquivo CSV que o programa faz leitura e manipula ficará contido no Java Project em que é executado)
 
